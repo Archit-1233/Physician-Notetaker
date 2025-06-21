@@ -28,7 +28,7 @@ Utilizes transformer-based NLP models for biomedical text understanding.
 1️⃣ Clone the repo
 
 git clone https://github.com/your-username/Physician-Notetaker.git
-cd Physician-Notetaker
+
 
 2️⃣ Create a virtual environment
 
