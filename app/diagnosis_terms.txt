@@ -1,0 +1,96 @@
+whiplash injury
+lower back strain
+concussion
+migraine
+fracture
+sprain
+head trauma
+soft tissue injury
+herniated disc
+cervical strain
+lumbar strain
+shoulder dislocation
+bruised rib
+neck strain
+sciatica
+traumatic brain injury
+carpal tunnel syndrome
+internal bleeding
+contusion
+nerve compression
+asthma
+hypertension
+diabetes
+anemia
+pneumonia
+arthritis
+gastroenteritis
+epilepsy
+depression
+anxiety disorder
+coronary artery disease
+tuberculosis
+sinusitis
+dermatitis
+bronchitis
+tonsillitis
+ulcer
+hepatitis
+gallstones
+kidney stones
+renal failure
+glaucoma
+cataract
+otitis media
+ear infection
+urinary tract infection
+osteoporosis
+rheumatoid arthritis
+multiple sclerosis
+parkinson's disease
+alzheimer's disease
+panic disorder
+bipolar disorder
+ptsd
+insomnia
+obesity
+malaria
+dengue
+typhoid
+cholera
+covid-19
+influenza
+common cold
+eczema
+psoriasis
+lupus
+lyme disease
+measles
+mumps
+rubella
+hiv
+aids
+cancer
+leukemia
+lymphoma
+brain tumor
+lung cancer
+breast cancer
+colon cancer
+prostate cancer
+skin cancer
+gastritis
+celiac disease
+crohn's disease
+ibs
+appendicitis
+meningitis
+sepsis
+stroke
+heart failure
+arrhythmia
+angina
+myocardial infarction
+blood clot
+deep vein thrombosis
+pulmonary embolism
