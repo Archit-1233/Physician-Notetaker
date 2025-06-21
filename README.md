@@ -29,13 +29,16 @@ Utilizes transformer-based NLP models for biomedical text understanding.
 
 git clone https://github.com/your-username/Physician-Notetaker.git
 cd Physician-Notetaker
+
 2️⃣ Create a virtual environment
 
 python -m venv env
-source env/bin/activate  # On Windows: env\Scripts\activate
+source env/bin/activate
+# On Windows: env\Scripts\activate
 3️⃣ Install dependencies
 
 pip install -r requirements.txt
+
 4️⃣ Run the app
 
 streamlit run app.py
