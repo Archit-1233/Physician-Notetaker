@@ -3,7 +3,7 @@ This project is an AI-powered tool designed to extract structured medical notes 
 
 # 🌐 Live App
 👉 Click here to try the live app
-https://archit-1233-physician-notetaker-app-do9eqn.streamlit.app/
+https://archit-1233-physician-notetaker-appapp-bjpl6r.streamlit.app/
 
 # 🧠 Features
 Automatically extracts:
