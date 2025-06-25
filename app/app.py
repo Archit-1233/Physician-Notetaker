@@ -1,6 +1,6 @@
 import streamlit as st
 
-from app.analyzer import analyze_medical_transcript
+from analyzer import analyze_medical_transcript
 
 # Page config
 st.set_page_config(page_title="Medical Transcript Analyzer", layout="wide")
