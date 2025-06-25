@@ -1,6 +1,6 @@
 from app.analyzer import analyze_medical_transcript
 
-def read_transcript(file_path=r"C:\Users\agraw\OneDrive\Desktop\Physician_project\transcript.txt"):
+def read_transcript(file_path="transcript.txt"):
     with open(file_path, "r") as f:
         return f.read()
 
