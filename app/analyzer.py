@@ -1,10 +1,10 @@
-from .entity_extractor import extract_entities
-from .diagnosis_resolver import load_diagnosis_terms, extract_diagnosis
-from .summarizer import generate_summary
-from .keyword_extractor import extract_keywords
-from .sentiment_intent import classify_sentiment, detect_intent
-from .status_prognosis import extract_current_status, extract_prognosis
-from .transcript_utils import extract_patient_name, extract_patient_lines
+from entity_extractor import extract_entities
+from diagnosis_resolver import load_diagnosis_terms, extract_diagnosis
+from summarizer import generate_summary
+from keyword_extractor import extract_keywords
+from sentiment_intent import classify_sentiment, detect_intent
+from status_prognosis import extract_current_status, extract_prognosis
+from transcript_utils import extract_patient_name, extract_patient_lines
 
 def analyze_medical_transcript(transcript):
     diagnosis_vocab = load_diagnosis_terms()
