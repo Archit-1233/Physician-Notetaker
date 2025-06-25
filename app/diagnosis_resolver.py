@@ -1,4 +1,7 @@
-def load_diagnosis_terms(file_path="app/diagnosis_terms.txt"):
+import os
+def load_diagnosis_terms(file_path="diagnosis_terms.txt"):
+    base_dir = os.path.dirname(__file__)
+    file_path = os.path.join(base_dir,file_path)
     with open(file_path, "r") as f:
         return [line.strip().lower() for line in f if line.strip()]
 
